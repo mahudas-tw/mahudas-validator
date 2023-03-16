@@ -1,6 +1,6 @@
 {
-  "name": "mahudas-validator",
-  "version": "0.0.1",
+  "name": "@mahudas/validator",
+  "version": "0.0.2",
   "description": "validator plugin for mahudas",
   "main": "index.js",
   "scripts": {
